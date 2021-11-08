@@ -56,4 +56,10 @@
  south_west_pacific_region:0 "South Western Pacific"
  north_west_pacific_region:0 "North Western Pacific"
  caribbean_sea_region:0 "West Caribbean Sea"
-
+ #OnlyKarlos' Brazil Overhaul
+ sao_paolo_area:0 "São Paulo"
+ west_sao_paolo_area:0 "Paraná"
+ grao_para_area:0 "Grão-Pará"
+ amazon_area:0 "Amazonas"
+ goias_area:0 "Goyaz"
+ piaui_area:0 "Piauhy"
